@@ -9,6 +9,24 @@ public class Demo1 {
 		System.out.println("linea4");
 		System.out.println("modificacion usuario 2 para ejer 6");
 		System.out.println("cambios hechos en rama cambio2 desde primer usuario");
+		System.out.println("linea1 SEUNDA MODIFICACION DESDE OTRO USUARIO");
+		System.out.println("linea2");
+		System.out.println("linea3 MODIFICACION DESDE OTRO USUARIO");
+		System.out.println("linea4");
+		System.out.println("modificacion usuario 2 para ejer 6");
+		System.out.println("cambios hechos en rama cambio2 desde primer usuario");
+		System.out.println("linea1 SEUNDA MODIFICACION DESDE OTRO USUARIO");
+		System.out.println("linea2");
+		System.out.println("linea3 MODIFICACION DESDE OTRO USUARIO");
+		System.out.println("linea4");
+		System.out.println("modificacion usuario 2 para ejer 6");
+		System.out.println("cambios hechos en rama cambio2 desde primer usuario");
+		System.out.println("linea1 SEUNDA MODIFICACION DESDE OTRO USUARIO");
+		System.out.println("linea2");
+		System.out.println("linea3 MODIFICACION DESDE OTRO USUARIO");
+		System.out.println("linea4");
+		System.out.println("modificacion usuario 2 para ejer 6");
+		System.out.println("cambios hechos en rama cambio2 desde primer usuario");
 	}
 	
 }
